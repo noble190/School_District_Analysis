@@ -15,15 +15,19 @@ The purpose of this exercise is to remove the fraudulent grade data for 461 Grad
 District-level data was not impacted much by the removal of the fraudulent grades. Because only 461 grades were removed from the calculation out of a total of 39,170 students, district-level measures were lowered by 0.1 - 0.3 percentage points.
 
 District Summary (before):
+![District before](https://github.com/noble190/School_District_Analysis/blob/main/Resources/1_district_before.png)
 
 District Summary (after):
+![District before](https://github.com/noble190/School_District_Analysis/blob/main/Resources/1_district_after.png)
 
 ### School Summary
 School-level data for THS was impacted noticeably by the removal of fraudulent Grade 9 grade data. After the data was removed, the recalculated summary showed a considerable increase of students passing math and reading. The overall passing rate has increased from ~65% to ~91%. It can be speculated that the school may have misrepresented data in order to attract more funding.
 
 School Summary (before):
+![District before](https://github.com/noble190/School_District_Analysis/blob/main/Resources/2_school_before.png)
 
 School Summary (after):
+![District before](https://github.com/noble190/School_District_Analysis/blob/main/Resources/2_school_after.png)
 
 ### Changes to Thomas High School's relative performance
 
